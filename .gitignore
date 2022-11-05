@@ -12,3 +12,4 @@ Cargo.lock
 # otherwise
 .DS_Store
 .ipynb_checkpoints
+project
